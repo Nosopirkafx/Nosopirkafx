@@ -28,6 +28,6 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nosopirkafx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nosopirkafx&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nosopirkafx&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.xyz/api/top-langs/?username=Nosopirkafx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
