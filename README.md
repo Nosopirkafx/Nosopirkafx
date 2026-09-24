@@ -32,7 +32,7 @@ I also used to design **YouTube thumbnails**, so visual design still tends to sn
   <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00FF88" alt="VS Code" />
   <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=00FF88" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=00FF88" alt="Gemini" />
-  <img src="https://img.shields.io/badge/ChatGPT-0D1117?style=flat-square&logo=openai&logoColor=00FF88" alt="Codex" />
+  <img src="https://img.shields.io/badge/Codex-0D1117?style=flat-square&logo=openai&logoColor=00FF88" alt="Codex" />
   <img src="https://img.shields.io/badge/OpenCode-0D1117?style=flat-square&logoColor=00FF88" alt="OpenCode" />
 </p>
 
