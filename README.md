@@ -28,11 +28,11 @@ I also used to design **YouTube thumbnails**, so visual design still tends to sn
 ```
 <p>
   <img src="https://img.shields.io/badge/Zed-0D1117?style=flat-square&logo=zedindustries&logoColor=00FF88" alt="Zed" />
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00FF88" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCjxwYXRoIGZpbGw9IiMwMEZGODgiIGQ9Ik0xNy4yIDIuMiA5LjEgOS42IDQuNyA2LjMgMiA4LjFsNS4xIDMuOUwyIDE1LjlsMi43IDEuOCA0LjQtMy4zIDguMSA3LjRMMjIgMTkuNFY0LjZsLTQuOC0yLjRabTAgNS40djguOEwxMS42IDEybDUuNi00LjRaIi8%2BCjwvc3ZnPg%3D%3D" alt="VS Code" />
   <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=00FF88" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=00FF88" alt="Gemini" />
 
-  <img src="https://img.shields.io/badge/Codex-0D1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBGRjg4IiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNi4yIDIuMmgzLjZsMS44IDMuMS0xLjggMy4xSDYuMkw0LjQgNS4zeiIvPjxwYXRoIGQ9Ik05LjggNy42aDMuNmwxLjggMy4xLTEuOCAzLjFIOS44TDggMTAuN3oiLz48cGF0aCBkPSJNMi42IDcuNmgzLjZMOCAxMC43bC0xLjggMy4xSDIuNkwuOCAxMC43eiIvPjwvZz48L3N2Zz4%3D" alt="Codex" />
+  <img src="https://img.shields.io/badge/Codex-0D1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCjxwYXRoIGZpbGw9IiMwMEZGODgiIGQ9Ik0xMiAyLjJhNC4xIDQuMSAwIDAgMSAzLjUgMiA0LjIgNC4yIDAgMCAxIDUuNCA0IDQuMSA0LjEgMCAwIDEgLjIgNy43IDQuMiA0LjIgMCAwIDEtNS42IDQgNC4xIDQuMSAwIDAgMS03IDAgNC4yIDQuMiAwIDAgMS01LjYtNEE0LjEgNC4xIDAgMCAxIDMgOC4yYTQuMiA0LjIgMCAwIDEgNS40LTQgNC4xIDQuMSAwIDAgMSAzLjYtMloiLz4KPHBhdGggZmlsbD0iIzBEMTExNyIgZD0ibTguMSA4LjEgMy4zIDMuOS0zLjMgMy45IDEuNyAxLjQgNC40LTUuMy00LjQtNS4zLTEuNyAxLjRabTYuMiA3LjFoNC4zdjJoLTQuM3YtMloiLz4KPC9zdmc%2B" alt="Codex" />
 
   <img src="https://img.shields.io/badge/OpenCode-0D1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBGRjg4IiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNiA0IDIuNSA4IDYgMTIiLz48cGF0aCBkPSJtMTAgNCAzLjUgNC0zLjUgNCIvPjxwYXRoIGQ9Ik05IDIuNSA3IDEzLjUiLz48L2c%2BPC9zdmc%2B" alt="OpenCode" />
 </p>
