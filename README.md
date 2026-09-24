@@ -26,14 +26,15 @@ I also used to design **YouTube thumbnails**, so visual design still tends to sn
 ┌─[ toolkit ]─[~/stack]
 └──╼ $ ls
 ```
-
 <p>
   <img src="https://img.shields.io/badge/Zed-0D1117?style=flat-square&logo=zedindustries&logoColor=00FF88" alt="Zed" />
   <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00FF88" alt="VS Code" />
   <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=00FF88" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=00FF88" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Codex-0D1117?style=flat-square&logo=openai&logoColor=00FF88" alt="Codex" />
-  <img src="https://img.shields.io/badge/OpenCode-0D1117?style=flat-square&logoColor=00FF88" alt="OpenCode" />
+
+  <img src="https://img.shields.io/badge/Codex-0D1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBGRjg4IiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNi4yIDIuMmgzLjZsMS44IDMuMS0xLjggMy4xSDYuMkw0LjQgNS4zeiIvPjxwYXRoIGQ9Ik05LjggNy42aDMuNmwxLjggMy4xLTEuOCAzLjFIOS44TDggMTAuN3oiLz48cGF0aCBkPSJNMi42IDcuNmgzLjZMOCAxMC43bC0xLjggMy4xSDIuNkwuOCAxMC43eiIvPjwvZz48L3N2Zz4%3D" alt="Codex" />
+
+  <img src="https://img.shields.io/badge/OpenCode-0D1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBGRjg4IiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNiA0IDIuNSA4IDYgMTIiLz48cGF0aCBkPSJtMTAgNCAzLjUgNC0zLjUgNCIvPjxwYXRoIGQ9Ik05IDIuNSA3IDEzLjUiLz48L2c%2BPC9zdmc%2B" alt="OpenCode" />
 </p>
 
 <p>
@@ -41,7 +42,8 @@ I also used to design **YouTube thumbnails**, so visual design still tends to sn
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF88" alt="Python" />
   <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00FF88" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=00FF88" alt="Rust" />
-  <img src="https://img.shields.io/badge/Windows-0D1117?style=flat-square&logo=windows11&logoColor=00FF88" alt="Windows" />
+
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iIzAwRkY4OCIgZD0iTTEgMi4xIDcuMiAxdjYuMUgxVjIuMVptNy4xLTEuMkwxNSAwdjcuMUg4LjFWLjlaTTEgOGg2LjJ2Ni4xTDEgMTNWOFptNy4xIDBIMTV2N2wtNi45LS45VjhaIi8%2BPC9zdmc%2B" alt="Windows" />
 </p>
 
 <p>
@@ -58,9 +60,9 @@ I also used to design **YouTube thumbnails**, so visual design still tends to sn
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nosopirkafx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88&ring_color=00FF88" alt="GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nosopirkafx&theme=github_dark" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosopirkafx&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nosopirkafx&theme=github_dark" alt="Top languages" />
 
 </div>
 
